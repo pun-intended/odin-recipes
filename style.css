@@ -25,15 +25,17 @@ h1{
 }
 
 .recipe-image{
-        /* set size */
-        max-width: 150px;
-        min-width: none;
-        /* center */
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+    /* set size */
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    /* center */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
     /* rounded corners */
+    border-radius: 8px;
 }
 
 .recipe-name{
