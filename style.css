@@ -1,0 +1,49 @@
+.header-image{
+    /* set size */
+    max-width: 150px;
+    min-width: none;
+    /* center */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
+
+.recipe-link{}
+
+/* CSS for recipe pages */
+
+.recipe{ /* basic formatting for all recipe pages*/
+/* indent text */
+/* set font family */
+/* set font size */
+/* set background color */
+
+}
+
+.recipe-image{
+        /* set size */
+        max-width: 150px;
+        min-width: none;
+        /* center */
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    /* rounded corners */
+}
+
+.recipe-name{
+    /* center */
+    /* set font size */
+
+}
+
+.instructions{
+    /* set font size */
+
+}
+
